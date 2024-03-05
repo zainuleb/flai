@@ -1,23 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import LandingPage from "./pages/landingPage";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div
+      className="lqd-sticky-footer-shadow-2 lqd-search-style-slide-top"
+      data-localscroll-offset="55"
+      data-mobile-nav-breakpoint="1199"
+      data-mobile-nav-style="modern"
+      data-mobile-nav-scheme="dark"
+      data-mobile-nav-trigger-alignment="right"
+      data-mobile-header-scheme="gray"
+      data-mobile-logo-alignment="default"
+      data-overlay-onmobile="false"
+    >
+      <LandingPage />
     </div>
   );
 }
