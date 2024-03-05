@@ -16,7 +16,7 @@ const LandingPage = () => {
           <StartBanner />
           <StartClient />
           <ValueProposition />
-          <Footer />
+          {/* <Footer /> */}
         </div>
       </main>
       <ContactModal />
