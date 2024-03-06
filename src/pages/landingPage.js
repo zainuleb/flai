@@ -5,6 +5,8 @@ import Footer from "../components/Footer";
 import ValueProposition from "../components/ValueProposition";
 import ContactModal from "../components/ContactModal";
 import StartClient from "../components/StartClient";
+import IconBox from "../components/IconBox";
+import StartTab from "../components/StartTab";
 
 const LandingPage = () => {
   return (
@@ -15,7 +17,8 @@ const LandingPage = () => {
         <div id="lqd-contents-wrap">
           <StartBanner />
           <StartClient />
-          <ValueProposition />
+          <IconBox />
+          <StartTab />
           {/* <Footer /> */}
         </div>
       </main>
