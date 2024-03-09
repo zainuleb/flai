@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer
       id="site-footer"
-      className="main-footer pt-45 pb-90"
+      className="main-footer pt-90 pb-90"
       data-sticky-footer="true"
       data-sticky-footer-options='{"shadow": "2"}'
     >

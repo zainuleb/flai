@@ -2,11 +2,11 @@ import React from "react";
 import Header from "../components/Header";
 import StartBanner from "../components/StartBanner";
 import Footer from "../components/Footer";
-import ValueProposition from "../components/ValueProposition";
 import ContactModal from "../components/ContactModal";
-import StartClient from "../components/StartClient";
-import IconBox from "../components/IconBox";
-import StartTab from "../components/StartTab";
+import ESGIntro from "../components/ESGIntro";
+import HowItWorks from "../components/HowItWorks";
+import FeatureBenefits from "../components/FeatureBenefits";
+import FAQs from "../components/FAQs";
 
 const LandingPage = () => {
   return (
@@ -16,10 +16,11 @@ const LandingPage = () => {
       <main className="content bg-white" id="lqd-site-content">
         <div id="lqd-contents-wrap">
           <StartBanner />
-          <StartClient />
-          <IconBox />
-          <StartTab />
-          {/* <Footer /> */}
+          <ESGIntro />
+          <HowItWorks />
+          <FeatureBenefits />
+          <FAQs />
+          <Footer />
         </div>
       </main>
       <ContactModal />
