@@ -44,7 +44,7 @@ const Header = () => {
       <div className="flex justify-between items-center border-bottom border-lightgray pr-15 pl-10 module-stuck md:hidden">
         <div className="flex">
           <div className="ld-module-sd ld-module-sd-hover ld-module-sd-left">
-            <button
+            {/* <button
               className="nav-trigger flex relative items-center justify-center style-2 collapsed bg-transparent border-none pointer-events-auto"
               type="button"
               data-ld-toggle="true"
@@ -60,7 +60,7 @@ const Header = () => {
                   <span className="bar inline-block relative"></span>
                 </span>
               </span>
-            </button>
+            </button> */}
             <div
               className="ld-module-dropdown collapse absolute lqd-drawer-left-side w-65vw"
               aria-valuenow="0"
@@ -196,16 +196,21 @@ const Header = () => {
             <div className="lqd-module-backdrop"></div>
           </div>
           <div id="site-logo" className="module-logo flex navbar-brand-plain">
-            <a
-              className="navbar-brand flex p-0 relative"
-              href="./index-start-hub-6.html"
-              rel="home"
-            >
-              <span className="navbar-brand-inner post-rel">
+            <a className="navbar-brand flex p-0 relative" href="/" rel="home">
+              <span
+                className="navbar-brand-inner post-rel"
+                style={{
+                  placeItems: "start",
+                  paddingLeft: "10px",
+                  paddingRight: "10px",
+                  marginLeft: "20px",
+                }}
+              >
                 <img
                   className="logo-default"
-                  src="./assets/images/demo/start-hub-6/logo/Logo.svg"
-                  alt="Starthub Six"
+                  src="./assets/images/landingpage/flai.png"
+                  alt="FLAI Logo"
+                  width={"17%"}
                 />
               </span>
             </a>

@@ -10,11 +10,11 @@ const StartBanner = () => {
             data-custom-animations="false"
             data-ca-options='{"animationTarget": "h1, h2, p, .btn, .lqd-split-lines .lqd-lines .split-inner", "duration" : 1000, "delay" : 75, "ease": "expo.out", "initValues": {"y": "100px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'
           >
-            <div className="ld-fancy-heading relative w-full">
+            {/* <div className="ld-fancy-heading relative w-full">
               <h1 className="ld-fh-element inline-block relative mb-0 text-74">
                 FLAI
               </h1>
-            </div>
+            </div> */}
             <div className="ld-fancy-heading relative w-full">
               <h2
                 className="ld-fh-element inline-block ld-gradient-heading relative mb-0/2em text-74 bg-transparent module-gradient"

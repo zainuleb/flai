@@ -79,7 +79,7 @@ const ESGIntro = () => {
               </div>
               <div className="ld-fancy-heading relative">
                 <h2 className="ld-fh-element inline-block relative m-0">
-                  All the tools you need
+                  Introduction to
                 </h2>
               </div>
               <div className="ld-fancy-heading relative">
@@ -90,32 +90,39 @@ const ESGIntro = () => {
                       "linear-gradient(90deg, #8D65E9 0%, #6BCD94 100%)",
                   }}
                 >
-                  to manage payments.
+                  ESG Reporting
                 </h2>
               </div>
               <div className="ld-fancy-heading relative">
                 <p className="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">
-                  Adjust your design through a wide range of theme options in
-                  the WordPress Customizer and{" "}
+                  Sustainability is the goal, and ESG tells us how well they're
+                  achieving it.
                   <span className="text-badge">
-                    see the changes instantly.{" "}
+                    <span> </span>
+                    ESG reporting means companies share information about their
+                    work on environmental, social, and good management
+                    practices.
                   </span>
                 </p>
               </div>
               <div className="ld-fancy-heading relative">
                 <p className="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">
-                  Hub IT allows your business and technology manipulate big data
-                  in the digital world. Import a complete or{" "}
-                  <u>mix and match</u> 300 section blocks.
+                  This helps investors understand what the company is doing in
+                  these areas and encourages other companies to do the same.
                 </p>
               </div>
               <div className="ld-fancy-heading relative">
                 <p className="ld-fh-element inline-block relative mb-3em text-16 leading-22 font-medium">
-                  We believe that designing{" "}
+                  {/* ESG is a way for companies to show how they're doing good for
+                  society and the environment, helping investors decide.
+                  Sustainability is the company's plan to be eco-friendly and
+                  responsible from the inside. Basically, sustainability is the
+                  goal, and ESG tells us how well they're achieving it. */}
+                  {/* We believe that designing
                   <span className="text-green-500">
                     products and services in close partnership
-                  </span>{" "}
-                  with our clients is the only way to have a real impact{" "}
+                  </span>
+                  with our clients is the only way to have a real impact */}
                 </p>
               </div>
               <div className="relative flex flex-wrap items-center justify-start p-10">
@@ -127,7 +134,7 @@ const ESGIntro = () => {
                   }}
                 >
                   <a
-                    href="https://www.youtube.com/watch?v=WaSvMAl4zPw"
+                    href="https://www.youtube.com/watch?v=OT3gsCbCKdI"
                     className="btn btn-naked fresco btn-icon-right btn-icon-circle btn-icon-custom-size btn-icon-solid btn-icon-ripple font-medium"
                   >
                     <span className="btn-icon w-60 h-60 text-black bg-white">
@@ -145,17 +152,17 @@ const ESGIntro = () => {
                     </h6>
                   </div>
                   <div className="ld-fancy-heading relative">
-                    <p className="ld-fh-element inline-block relative mb-0/5em text-14 leading-16 w-210 sm:w-full">
+                    {/* <p className="ld-fh-element inline-block relative mb-0/5em text-14 leading-16 w-210 sm:w-full">
                       Adjust your design through a wide range of theme options
-                      in{" "}
+                      in
                       <span className="text-badge">
                         see the changes instantly.
                       </span>
-                    </p>
+                    </p> */}
                   </div>
                 </div>
                 <a
-                  href="https://www.youtube.com/watch?v=WaSvMAl4zPw"
+                  href="https://www.youtube.com/watch?v=OT3gsCbCKdI"
                   className="block lqd-overlay flex z-3 fresco"
                 >
                   <span className="lqd-extra-cursor fixed inline-flex items-center justify-center pointer-events-none"></span>

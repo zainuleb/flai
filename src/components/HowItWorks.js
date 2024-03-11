@@ -53,8 +53,7 @@ const HowItWorks = () => {
                   data-split-text="true"
                   data-split-options='{"type": "lines"}'
                 >
-                  {" "}
-                  Agility and Scale
+                  How It Works
                 </h2>
               </div>
               <div className="lqd-imggrp-single block relative mb-15">
@@ -70,15 +69,14 @@ const HowItWorks = () => {
                 </div>
               </div>
               <div className="ld-fancy-heading relative mask-text">
-                <p
+                {/* <p
                   className="ld-fh-element inline-block relative lqd-split-lines mb-1/5em text-17 leading-1/3em"
                   data-split-text="true"
                   data-split-options='{"type": "lines"}'
                 >
-                  {" "}
                   Adjust your design through a wide range of theme options in
                   the Customizer.
-                </p>
+                </p> */}
               </div>
             </div>
             <div className="col col-12 p-0">
@@ -107,7 +105,7 @@ const HowItWorks = () => {
                           ></i>
                         </span>
                         <span className="lqd-tabs-nav-txt">
-                          Wireless Solutions
+                          Data Collection
                         </span>
                       </a>
                     </li>
@@ -126,9 +124,7 @@ const HowItWorks = () => {
                             className="lqd-icn-ess icon-num-2"
                           ></i>
                         </span>
-                        <span className="lqd-tabs-nav-txt">
-                          Global Theme Options
-                        </span>
+                        <span className="lqd-tabs-nav-txt">Data Analysis</span>
                       </a>
                     </li>
                     <li data-controls="lqd-tab-item-3" role="presentation">
@@ -147,7 +143,7 @@ const HowItWorks = () => {
                           ></i>
                         </span>
                         <span className="lqd-tabs-nav-txt">
-                          Ultra Fast TTFB
+                          Report Generation
                         </span>
                       </a>
                     </li>
@@ -243,10 +239,10 @@ const HowItWorks = () => {
                     </div>
                   </div>
                   <p className="lqd-iconbox-heading text-14 m-0 leading-1/3em">
-                    Bring your ideas to life with an intuitive visual editor.{" "}
+                    Bring your ideas to life with an intuitive visual editor.
                   </p>
                   <a
-                    href="#"
+                    href="/#"
                     className="btn btn-naked btn-icon-right btn-hover-swp text-14 font-medium text-title"
                   >
                     <span className="btn-txt" data-text="Learn more">
@@ -292,10 +288,10 @@ const HowItWorks = () => {
                     </div>
                   </div>
                   <p className="lqd-iconbox-heading text-14 m-0 leading-1/3em">
-                    Create, edit, and customize your website visually{" "}
+                    Create, edit, and customize your website visually
                   </p>
                   <a
-                    href="#"
+                    href="/#"
                     className="btn btn-naked btn-icon-right btn-hover-swp text-14 font-medium text-title"
                   >
                     <span className="btn-txt" data-text="Learn more">
@@ -341,10 +337,10 @@ const HowItWorks = () => {
                     </div>
                   </div>
                   <p className="lqd-iconbox-heading text-14 m-0 leading-1/3em">
-                    See the changes instantly.more backend stuff.{" "}
+                    See the changes instantly.more backend stuff.
                   </p>
                   <a
-                    href="#"
+                    href="/#"
                     className="btn btn-naked btn-icon-right btn-hover-swp text-14 font-medium text-title"
                   >
                     <span className="btn-txt" data-text="Learn more">
@@ -390,10 +386,10 @@ const HowItWorks = () => {
                     </div>
                   </div>
                   <p className="lqd-iconbox-heading text-14 m-0 leading-1/3em">
-                    Launch your website in a few minutes.coding required!{" "}
+                    Launch your website in a few minutes.coding required!
                   </p>
                   <a
-                    href="#"
+                    href="/#"
                     className="btn btn-naked btn-icon-right btn-hover-swp text-14 font-medium text-title"
                   >
                     <span className="btn-txt" data-text="Learn more">
