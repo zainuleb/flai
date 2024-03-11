@@ -116,8 +116,7 @@ const Footer = () => {
                   data-split-text="true"
                   data-split-options='{"type":  "chars, words"}'
                 >
-                  {" "}
-                  Join the community{" "}
+                  Join the community
                 </span>
               </a>
             </div>
@@ -137,7 +136,7 @@ const Footer = () => {
             </div>
             <div className="ld-fancy-heading relative">
               <p className="ld-fh-element relative m-0 text-14 text-white-60">
-                © 2022 StartupHub. All images are for demo purposes.
+                © 2024 SiliconStark
               </p>
             </div>
           </div>
@@ -173,7 +172,7 @@ const Footer = () => {
                   </svg>
                 </a>
               </span>
-              <span className="grid-item">
+              {/* <span className="grid-item">
                 <a
                   href="/#"
                   className="icon social-icon social-icon-spotify"
@@ -187,8 +186,8 @@ const Footer = () => {
                     ></path>
                   </svg>
                 </a>
-              </span>
-              <span className="grid-item">
+              </span> */}
+              {/* <span className="grid-item">
                 <a
                   href="/#"
                   className="icon social-icon social-icon-facebook"
@@ -202,8 +201,8 @@ const Footer = () => {
                     ></path>
                   </svg>
                 </a>
-              </span>
-              <span className="grid-item">
+              </span> */}
+              {/* <span className="grid-item">
                 <a
                   href="/#"
                   className="icon social-icon social-icon-twitter"
@@ -217,7 +216,7 @@ const Footer = () => {
                     ></path>
                   </svg>
                 </a>
-              </span>
+              </span> */}
               <span className="grid-item">
                 <a
                   href="/#"

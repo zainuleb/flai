@@ -30,7 +30,7 @@ const FeatureBenefits = () => {
           <div className="col col-12 text-center p-0">
             <div className="ld-fancy-heading relative mb-30">
               <h2 className="ld-fh-element inline-block relative mb-0/4em">
-                Built for everyone.
+                Features and Benefits
               </h2>
             </div>
           </div>
@@ -85,7 +85,7 @@ const FeatureBenefits = () => {
                   </div>
                   <div className="contents">
                     <h3 className="lqd-iconbox-heading text-20 mb-0/85em">
-                      <span>Collaboration Tools</span>
+                      <span>Automated Data Gathering</span>
                       <svg
                         className="inline-block"
                         xmlns="http://www.w3.org/2000/svg"
@@ -100,8 +100,8 @@ const FeatureBenefits = () => {
                       </svg>
                     </h3>
                     <p>
-                      Endless use-cases that make it highly flexible, adaptable,
-                      and scalable for everyone.
+                      Save time and reduce errors with automated data
+                      collection.
                     </p>
                   </div>
                 </div>
@@ -152,7 +152,7 @@ const FeatureBenefits = () => {
                   </div>
                   <div className="contents">
                     <h3 className="lqd-iconbox-heading text-20 mb-0/85em">
-                      <span>Global Style Customizer </span>
+                      <span>Real-time Insights </span>
                       <svg
                         className="inline-block"
                         xmlns="http://www.w3.org/2000/svg"
@@ -167,8 +167,8 @@ const FeatureBenefits = () => {
                       </svg>
                     </h3>
                     <p>
-                      Choose a pre-built header or create a custom layout that
-                      perfectly suits your needs.{" "}
+                      Offer insights into ESG performance with real-time data
+                      analysis.
                     </p>
                   </div>
                 </div>
@@ -213,7 +213,7 @@ const FeatureBenefits = () => {
                   </div>
                   <div className="contents">
                     <h3 className="lqd-iconbox-heading text-20 mb-0/85em">
-                      <span>Artificial intelligent bots</span>
+                      <span>Customizable Reports</span>
                       <svg
                         className="inline-block"
                         xmlns="http://www.w3.org/2000/svg"
@@ -228,8 +228,8 @@ const FeatureBenefits = () => {
                       </svg>
                     </h3>
                     <p>
-                      A huge collection of elements, rich customization options,
-                      flexible layouts, and instant results!
+                      Highlight the ability to customize reports to meet
+                      different standards and stakeholder requirements.
                     </p>
                   </div>
                 </div>
@@ -281,7 +281,7 @@ const FeatureBenefits = () => {
                   </div>
                   <div className="contents">
                     <h3 className="lqd-iconbox-heading text-20 mb-0/85em">
-                      <span>Automated notifications</span>
+                      <span>Compliance</span>
                       <svg
                         className="inline-block"
                         xmlns="http://www.w3.org/2000/svg"
@@ -296,8 +296,8 @@ const FeatureBenefits = () => {
                       </svg>
                     </h3>
                     <p>
-                      Mix and match different section blocks to jump start your
-                      design process and create unique.
+                      Explain how the tool helps in staying compliant with
+                      regulatory requirements.
                     </p>
                   </div>
                 </div>
@@ -341,7 +341,7 @@ const FeatureBenefits = () => {
                   </div>
                   <div className="contents">
                     <h3 className="lqd-iconbox-heading text-20 mb-0/85em">
-                      <span>Translation Support</span>
+                      <span>Scalability</span>
                       <svg
                         className="inline-block"
                         xmlns="http://www.w3.org/2000/svg"
@@ -355,10 +355,7 @@ const FeatureBenefits = () => {
                         ></path>
                       </svg>
                     </h3>
-                    <p>
-                      We offerquestions asked refund policy for 21 days from the
-                      policy date.
-                    </p>
+                    <p>Show how the platform can scale with the business.</p>
                   </div>
                 </div>
               </div>
